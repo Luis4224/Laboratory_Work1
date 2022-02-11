@@ -16,7 +16,7 @@
 
             Console.WriteLine("Решение по первой формуле " + z1);
             Console.WriteLine("Решение по второй формуле " + z2);
-            Console.WriteLine("Решение по второй формуле " + z2);
+            
             
             
 
